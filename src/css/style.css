@@ -46,15 +46,15 @@ main .img {
 }
 
 main .img:nth-of-type(1) {
-    background-image: url("/src/imgs/main/01.jpg");
+    background-image: url("../imgs/main/01.jpg");
 }
 
 main .img:nth-of-type(2) {
-    background-image: url("/src/imgs/main/02.jpg");
+    background-image: url("../imgs/main/02.jpg");
 }
 
 main .img:nth-of-type(3) {
-    background-image: url("/src/imgs/main/03.jpg");
+    background-image: url("../imgs/main/02.jpg");
 }
 
 main::after {
